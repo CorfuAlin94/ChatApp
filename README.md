@@ -1,6 +1,6 @@
 # Getting Started - ENG
 
-First you will need to install all dependencies. So run "npm install" in both client & server
+First you will need to install all dependencies. So run "npm install" in both client & server.
 
 # Server :
 
