@@ -1,4 +1,4 @@
-# Getting Started - ENG
+# ChatApp - Getting Started - ENG
 
 First you will need to install all dependencies. So run "npm install" in both client & server.
 
@@ -28,9 +28,12 @@ First you will need to install all dependencies. So run "npm install" in both cl
 
 To use the Chat app you can make an account via the registration from or use an existing one (all user details can be found in the seeders folder with the name - 20230326102345-create-users)
 
+# Tehnologies Used:
+Javascript, React, Sequelizer, Apollo, MySQL, Bcrypt, JSONWebToken.
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-# Noțiuni introductive - RO
+#  ChatApp - Noțiuni introductive - RO
 
 Mai întâi va trebui să instalați toate dependențele. Deci, rulați „npm install” atât în client, cât și în server.
 
@@ -59,3 +62,6 @@ Mai întâi va trebui să instalați toate dependențele. Deci, rulați „npm i
 # Cum se utilizează:
 
 Pentru a utiliza aplicația de Chat, vă puteți crea un cont prin înregistrare sau utilizați unul existent (toate detaliile utilizatorului pot fi găsite în folderul seeders cu numele - 20230326102345-create-users)
+
+# Tehnologii Folosite:
+Javascript, React, Sequelizer, Apollo, MySQL, Bcrypt, JSONWebToken.
