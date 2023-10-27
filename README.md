@@ -17,7 +17,7 @@ First you will need to install all dependencies. So run "npm install" in both cl
 
 4. In a terminal that has the server root (the whole folder) run "npm run dev" to run the server via nodemon.
 
-# All dependencies are used in the latest version so no need to modify the packages ALSO you will see the prisma dependency, it is used for managing a webpack error.
+All dependencies are used in the latest version so no need to modify the packages ALSO you will see the prisma dependency, it is used for managing a webpack error.
 
 # Client
 
@@ -52,7 +52,7 @@ Mai întâi va trebui să instalați toate dependențele. Deci, rulați „npm i
 
 3. Într-un terminal care are rădăcina server (adică tot folderul) , rulați „npm run dev” pentru a rula serverul prin nodemon.
 
-# Toate dependențele sunt utilizate în cea mai recentă versiune, așa că nu este nevoie să modificați pachetele, DE asemenea, veți vedea dependența "prisma", este folosită pentru gestionarea unei erori din webpack.
+Toate dependențele sunt utilizate în cea mai recentă versiune, așa că nu este nevoie să modificați pachetele, DE asemenea, veți vedea dependența "prisma", este folosită pentru gestionarea unei erori din webpack.
 
 # Client
 
