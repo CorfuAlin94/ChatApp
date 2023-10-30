@@ -10,7 +10,6 @@ First you will need to install all dependencies. So run "npm install" in both cl
    "password": "password",
    "database": "chatApp",
    
-
 3. To use sequelize you will need to migrate the existing data using "sequelize db:migrate" and to use the seeders you will need to use "sequelize db:seed:all"
 
    2.1. To undo the migration use: "sequelize db:migrate:undo:all" then run the commands from point 2 to reinit the migration
