@@ -2,6 +2,7 @@
 
 First you will need to install all dependencies. So run "npm install" in both client & server.
 
+
 # Server :
 
 1. In config/config.json it requires you to create a db in sql with the following:
